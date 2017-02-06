@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Lalo landa",
+    "gender": "male",
+    "aliases": ["Developer", "Ingeniero", "Web-Design", "Fraude"],
+    "city": "Santiago",
+    "skills": [
+      "PHP",
+      "Angular JS",
+      "NginX"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Juana de Arco",
+    "gender": "female",
+    "aliases": ["Developer", "Ingeniero", "Web-Design", "Fraude"],
+    "city": "Iquique",
+    "skills": [
+      "React JS",
+      "Linux",
+      "Word"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Adolf Hitler",
+    "gender": "male",
+    "aliases": ["Developer", "Web-Design", "Fraude"],
+    "city": "Santiago",
+    "skills": [
+      "PHP",
+      "Angular JS",
+      "Apache2"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sasha Grey",
+    "gender": "female",
+    "aliases": ["Web-Design", "Fraude"],
+    "city": "Punta Arenas",
+    "skills": [
+      "PHP",
+      "Java",
+      "NginX"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Fidel Castro",
+    "gender": "male",
+    "jobs": ["Diseñador", "Guru"],
+    "city": "Viña del Mar",
+    "skills": [
+      "Javascript",
+      "HTML",
+      "CSS"
+    ]
+  }
+]

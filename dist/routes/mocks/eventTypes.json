@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "domainId":857,
+    "alias":"cl",
+    "type_name":"ApplicantsId and OfferId"
+  },
+  {
+    "id":2,
+    "domainId":857,
+    "alias":"cl",
+    "type_name":"ApplicantsId"
+  },
+  {
+    "id":3,
+    "domainId":857,
+    "alias":"cl",
+    "type_name":"Event"
+  }
+]
