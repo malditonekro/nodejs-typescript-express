@@ -1,4 +1,4 @@
-# API REST Backend - Área de Proyectos e Innovación.
+# API REST Backend
 
 API REST Backend desarrollado con NodeJS, ExpressJS y TypeScript 2.
 
